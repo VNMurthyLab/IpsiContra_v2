@@ -1,11 +1,11 @@
-# Bilateral Alignment of Receptive Fields in the Olfactory Cortex Points to Non-Random Connectivity - Data and Code
+# Bilateral Alignment of Receptive Fields in the Olfactory Cortex - Data and Code
 
 ## OVERVIEW
 
 This folder contains all the Matlab data and code necessary to replicate the results of the following article:
 
 * **Authors**: Grimaud J, Dorrell W, Pehlevan C, Murthy V.
-* **Title**: Bilateral Alignment of Receptive Fields in the Olfactory Cortex Points to Non-Random Connectivity.
+* **Title**: Bilateral Alignment of Receptive Fields in the Olfactory Cortex.
 * **Published in** bioRxiv on [INSERT DATE].
 
 Details on how each variable was calculated can be found in the Methods section of the article.
