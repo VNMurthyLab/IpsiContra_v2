@@ -3,7 +3,7 @@ Code for decoding and modelling in:
 "Matched Bilateral Odor Responses in the Olfactory Cortex", Grimaud et al.
 
 There are three files that you should run in order to generate the modelling 
-and decoding analysis figures (i.e. Figures 4, 6, S5 and S7)
+and decoding analysis figures.
 
 1) DecodingAnalysis.m analyses the data and producing the decoding curves as 
 	seen in fig 4 B-D and fig S5.
